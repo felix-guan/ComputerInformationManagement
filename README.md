@@ -1,0 +1,2 @@
+# ComputerInformationManagement
+这是一个计算机信息管理自学的学习笔记总结。
